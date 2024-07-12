@@ -1,0 +1,5 @@
+// Create an array with the given values
+let myArray = ['Orange', 25, 100, true, 33.58];
+
+// Log the array to the console
+console.log(myArray);
